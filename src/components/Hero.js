@@ -5,7 +5,7 @@ const Hero = () => {
   const { closeSubmenu } = useGlobalContext();
 
   return (
-    <section className='hero'>
+    <section className='hero' onMouseOver={closeSubmenu}>
       <div className='hero-center'>
         <article className='hero-info'>
           <h1>Payments infrastructure for the internet</h1>
@@ -17,7 +17,7 @@ const Hero = () => {
           <button className='btn'>Start Now</button>
         </article>
         <article className='hero-images'>
-          <img src={phoneImg} alt='phone image' className='phone-img' />
+          <img src={phoneImg} alt='phone' className='phone-img' />
         </article>
       </div>
     </section>
