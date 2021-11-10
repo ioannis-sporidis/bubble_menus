@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bubble_menus/static/css/main.86ce51c9.chunk.css",
-    "main.js": "/bubble_menus/static/js/main.7f2c02ec.chunk.js",
-    "main.js.map": "/bubble_menus/static/js/main.7f2c02ec.chunk.js.map",
-    "runtime-main.js": "/bubble_menus/static/js/runtime-main.cd5445b9.js",
-    "runtime-main.js.map": "/bubble_menus/static/js/runtime-main.cd5445b9.js.map",
-    "static/js/2.435fc53a.chunk.js": "/bubble_menus/static/js/2.435fc53a.chunk.js",
-    "static/js/2.435fc53a.chunk.js.map": "/bubble_menus/static/js/2.435fc53a.chunk.js.map",
-    "index.html": "/bubble_menus/index.html",
-    "static/css/main.86ce51c9.chunk.css.map": "/bubble_menus/static/css/main.86ce51c9.chunk.css.map",
-    "static/js/2.435fc53a.chunk.js.LICENSE.txt": "/bubble_menus/static/js/2.435fc53a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/bubble_menus/static/media/hero.acf1e00e.svg",
-    "static/media/logo.6ad422bb.svg": "/bubble_menus/static/media/logo.6ad422bb.svg",
-    "static/media/phone.94a7a4fe.svg": "/bubble_menus/static/media/phone.94a7a4fe.svg"
+    "main.css": "/rc-bubble-menus/static/css/main.bd394cc4.chunk.css",
+    "main.js": "/rc-bubble-menus/static/js/main.a33ff3b8.chunk.js",
+    "main.js.map": "/rc-bubble-menus/static/js/main.a33ff3b8.chunk.js.map",
+    "runtime-main.js": "/rc-bubble-menus/static/js/runtime-main.fa0e1398.js",
+    "runtime-main.js.map": "/rc-bubble-menus/static/js/runtime-main.fa0e1398.js.map",
+    "static/js/2.435fc53a.chunk.js": "/rc-bubble-menus/static/js/2.435fc53a.chunk.js",
+    "static/js/2.435fc53a.chunk.js.map": "/rc-bubble-menus/static/js/2.435fc53a.chunk.js.map",
+    "index.html": "/rc-bubble-menus/index.html",
+    "static/css/main.bd394cc4.chunk.css.map": "/rc-bubble-menus/static/css/main.bd394cc4.chunk.css.map",
+    "static/js/2.435fc53a.chunk.js.LICENSE.txt": "/rc-bubble-menus/static/js/2.435fc53a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rc-bubble-menus/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/rc-bubble-menus/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/rc-bubble-menus/static/media/phone.94a7a4fe.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd5445b9.js",
+    "static/js/runtime-main.fa0e1398.js",
     "static/js/2.435fc53a.chunk.js",
-    "static/css/main.86ce51c9.chunk.css",
-    "static/js/main.7f2c02ec.chunk.js"
+    "static/css/main.bd394cc4.chunk.css",
+    "static/js/main.a33ff3b8.chunk.js"
   ]
 }
